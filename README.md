@@ -1,2 +1,2 @@
 # git-workflow
-This is useful information about my project.
+This is useful information about my project.  Here is more info...
